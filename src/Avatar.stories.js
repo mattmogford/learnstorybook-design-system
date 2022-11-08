@@ -82,7 +82,7 @@ export const Controls = Template.bind({});
  */
 Controls.args = {
   loading: false,
-  size: "tiny",
+  size: "large",
   username: "Dominic Nguyen",
   src: "https://avatars2.githubusercontent.com/u/263385",
 };
